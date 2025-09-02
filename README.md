@@ -60,17 +60,5 @@ Here are some of the projects I'm most proud of.
 | **Hararu** | The first Halal economy platform in Japan. I was a key Flutter developer for this community-focused marketplace, which features real-time chat, product barcode scanning, and a database of Halal products. | `Flutter`, `Dart`, `Firebase` | [App Store](https://apps.apple.com/id/app/hararu/id1575895928) |
 | **Servolution** | A volunteer management platform for a non-profit organization. As a volunteer, I led the development of the frontend, building key features like event creation, volunteer registration, and an admin dashboard. | `React`, `TypeScript`, `Zustand`, `Firebase` | [GitHub Repo](https://github.com/pranahonk/gms-volunteer-management-v3.0) |
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/pranahonk/pranahonk/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranahonk/pranahonk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranahonk/pranahonk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranahonk/pranahonk/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-</p>
 ```eof
