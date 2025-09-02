@@ -22,7 +22,7 @@ I'm a passionate Full-Stack and Mobile Developer with nearly six years of experi
 </p>
 <p align="center">
   <strong>Mobile Development:</strong><br>
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,dart,swift,androidstudio" alt="Mobile Skills"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,androidstudio" alt="Mobile Skills"/>
 </p>
 <p align="center">
   <strong>Backend, Databases & DevOps:</strong><br>
