@@ -62,5 +62,15 @@ Here are some of the projects I'm most proud of.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pranahonk/pranahonk/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranahonk/pranahonk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranahonk/pranahonk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranahonk/pranahonk/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </p>
 ```eof
